@@ -22,7 +22,15 @@ Using AI to generate assets based on scraped data can:
 - Spark lawsuits or backlash from creators.
 - Developers may face reputation damage if they use AI unethically.
 
- 
+ ## Devaluation of Skilled Labor
+AI-generated assets can drive down the perceived value of:
+- Concept art, music, voice acting, and other creative disciplines.
+- Studios might choose AI over skilled freelancers or contractors to cut costs.
+
+## Over-Reliance on AI Tools
+Developers might depend too heavily on AI for:
+- Level design
+- balancing, or user testing  (skipping manual checks).
 
 
 
