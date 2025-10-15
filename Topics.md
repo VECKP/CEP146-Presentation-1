@@ -1,4 +1,4 @@
-# Impact of AI in game devlopment 
+# Impact of AI in game devlopment Ideas
 
 ## Job Displacement
 - Automation of roles like QA testers, environment artists (via procedural generation), and even writers (through AI-driven dialogue) may lead to fewer jobs for humans.
