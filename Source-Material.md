@@ -14,3 +14,12 @@ https://www.gamedeveloper.com/design/ai-in-game-development-how-it-s-changing-st
 
 ## Source
 https://www.gamesindustry.biz/how-ai-is-changing-quality-assurance-in-game-development
+
+# 3. Ethical & Legal Concerns - Tofa
+AI tools that use online artwork without permission have caused copyright issues and backlash from artists. Developers risk legal trouble and losing trust if they use these tools irresponsibly.
+## Sources
+https://www.theartnewspaper.com/2024/08/15/us-artists-score-victory-in-landmark-ai-copyright-case
+
+https://aibusiness.com/responsible-ai/artists-copyright-claims-against-ai-image-generators-advance-in-court
+
+https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem
