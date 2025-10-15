@@ -3,9 +3,17 @@
 ## introduction - Victor  
 "AI has brought powerful tools to the game industry; creating revolutionary innovations such as improved NPC behavior and interaction, procedural generation for functional assets, and many more. However, its growing role also introduces many negative effects and today we’re going to look at how they can impact the future of game development." 
 
-## david - quality control issues in AI game development
+## david - Quality Control Issues In AI Game Development
 
-AI-generated assets, such as characters, animations, and dialogue, can introduce significant quality control issues. These assets might contain bugs, visual or logical inconsistencies, or even inappropriate content. Beyond technical errors, AI often struggles to capture the emotional depth and creativity that human designers bring to games. This can make AI-generated content feel less authentic, affecting the overall player experience. Developers must carefully review and refine AI-created assets to maintain a consistent and engaging quality in their games.
+Ai-generated assets like characters, animations, and dialogue are becoming more common in game development, especially since they can save studios a lot of time and money. but there’s a big downside to relying on them too much.
+
+These ai-generated assets often have bugs, weird inconsistencies, or even inappropriate content. and beyond that, they just don’t capture the same emotion or creative spark that human artists bring to a game.
+
+According to gamedeveloper.com, more developers are worried about generative ai actually lowering the quality of games, saying ai-made content can feel repetitive or soulless.
+Another report by drillimation systems also points out that ai-generated assets often lack cohesion and creativity, which can make a game’s visuals or story feel disconnected.
+
+So while Ai can definitely speed up development, it can’t replace that human touch just yet. developers still need to go in and polish, edit, and make sure everything feels genuine. finding that balance between efficiency and creativity is what’ll really shape the future of game design.
+
 
 ## Job dipslacement - victor 
 **LINE 1-** Artificial intelligence is rapidly transforming the workforce by automating tasks once performed by humans; leading to widespread concerns about job displacement
