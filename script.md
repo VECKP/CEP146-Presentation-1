@@ -21,3 +21,13 @@ AI-generated assets, such as characters, animations, and dialogue, can introduce
 Artificial intelligence has accelerated the process of creating game art and designs but it has also created some major problems. Some AI tools have also used real artists’ work without permission, resulting in copyright issues and even lawsuits. Artists have sued companies such as Midjourney and Stability AI for using their art in AI training without permission, *The Art Newspaper and AI Business reported.*
 
 That’s why it’s especially important that developers use AI responsibly and make sure they aren’t infringing on the creativity or rights of real artists.
+
+## Creative Homogenization - Gabriel
+
+Artificial intelligence technology has greatly enhanced efficiency and creativity in game development, but it has the potential to lead to **creative homogenization**. Because AI technologies are trained on existing game data, they allow existing patterns, styles, and ideas to be generated on other games.This can lead to repetitive gameplay, predictable narratives, and an art style that feels very familiar. 
+
+While the incorporation of AI-generated content can certainly help expedite production and therefore has value, it may lead to lesser levels of originality and emotional payoff that come from human's capacity for creativity. 
+Developers and studios just need to be careful not to depend on AI, or the industry may find itself lacking the diversity of ideas and artistic capability that has always existed. 
+
+The key to preventing any lack of diversity in perspectives will be using AI as a creative assistant, rather than a substitute for the creative mind. 
+The gaming space can innovate and expand its identity while continuing to inspire.
