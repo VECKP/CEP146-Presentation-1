@@ -8,12 +8,17 @@ Microsoft’s 200 laid-off King devs are reportedly being replaced by AI they he
 https://timesofindia.indiatimes.com/technology/tech-news/after-laying-off-9000-employees-microsoft-is-now-replacing-some-of-workers-with-the-ai-tools-they-build/articleshow/122575861.cms
 
 # 2. Quality control issues
-AI-generated assets, such as characters, animations, or dialogue, can contain bugs, inconsistencies, or inappropriate content, and they often lack the human touch that lends games emotional authenticity.
-## Source
-https://www.gamedeveloper.com/design/ai-in-game-development-how-it-s-changing-storytelling-and-design
+
+Article discussing developer concerns about generative ai reducing game quality
 
 ## Source
-https://www.gamesindustry.biz/how-ai-is-changing-quality-assurance-in-game-development
+https://www.gamedeveloper.com/business/devs-are-more-worried-than-ever-that-generative-ai-will-lower-the-quality-of-games
+
+Report on how ai-generated assets can cause inconsistency and lack of authenticity in game design
+
+## Source
+https://www.pcgamer.com/ai-generated-art-is-filling-steam-and-its-causing-quality-control-headaches/
+
 
 # 3. Ethical & Legal Concerns - Tofa
 AI tools that use online artwork without permission have caused copyright issues and backlash from artists. Developers risk legal trouble and losing trust if they use these tools irresponsibly.
