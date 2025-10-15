@@ -5,4 +5,4 @@ You can view the visuals here: My Canva Presentation ([ai Tools.pdf](https://git
 
 ## Visuals for Video Presentation - Victor
 this link for Intro & job displacemnet:
-[Intro & Job Displacement](file:///C:/Users/Victor%20Peters/OneDrive/Documents/school%20Applications/cpaterm1/CEP146/gorup%20presentation%201/intro%20and%20Job%20Displacement.pdf)
+[Intro & Job Displacement] file:///C:/Users/Victor%20Peters/OneDrive/Documents/school%20Applications/cpaterm1/CEP146/gorup%20presentation%201/intro%20and%20Job%20Displacement.pdf
