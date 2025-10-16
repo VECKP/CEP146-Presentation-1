@@ -5,14 +5,12 @@
 
 ## david - Quality Control Issues In AI Game Development
 
-Ai-generated assets like characters, animations, and dialogue are becoming more common in game development, especially since they can save studios a lot of time and money. but there’s a big downside to relying on them too much.
-
-These ai-generated assets often have bugs, weird inconsistencies, or even inappropriate content. and beyond that, they just don’t capture the same emotion or creative spark that human artists bring to a game.
+AI-generated assets like characters, animations, and dialogue are becoming more common in game development, especially since they can save studios a lot of time and money. But there’s a big downside to relying on them too much.
 
 According to gamedeveloper.com, more developers are worried about generative ai actually lowering the quality of games, saying ai-made content can feel repetitive or soulless.
 Another report by drillimation systems also points out that ai-generated assets often lack cohesion and creativity, which can make a game’s visuals or story feel disconnected.
 
-So while Ai can definitely speed up development, it can’t replace that human touch just yet. developers still need to go in and polish, edit, and make sure everything feels genuine. finding that balance between efficiency and creativity is what’ll really shape the future of game design.
+So while AI can definitely speed up development, it can’t replace that human touch just yet. developers still need to go in and polish, edit, and make sure everything feels genuine. Finding that balance between efficiency and creativity is what’ll really shape the future of game design.
 
 
 ## Job dipslacement - victor 
