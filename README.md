@@ -7,5 +7,5 @@
 
 ## link to video: [Click Here!](https://youtu.be/MwQVY2rITNM)
 
-##W Final Question: 
+## Final Question: 
 If you were CEO, would you replace your Company with AI?
