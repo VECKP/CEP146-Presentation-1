@@ -6,3 +6,6 @@
  Since its modernization, AI has introduced many negative effects and has raised significant concern within the field of game development. In this presentation, we will explore some of these challenges and examine their impact on the gaming industry and the current landscape of game development.
 
 ## link to video: [Click Here!](https://youtu.be/tM4NmTaP6oU)
+
+## Final Question - Tofa
+How can developers balance creativity, ethics, and innovation when using AI in game design?
