@@ -9,3 +9,6 @@
 
 ## Final Question: 
 If you were CEO, would you replace your Company with AI?
+
+- Form study groups with classmates
+
